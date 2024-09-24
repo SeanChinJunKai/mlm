@@ -2,7 +2,7 @@
 
 ## User Authentication & Management
 - [x] Users can sign up and log in using Supabase Auth.
-- [ x] Upon registration, each user receives a unique referral link.
+- [x] Upon registration, each user receives a unique referral link.
 
 ## Referral Link Generation & Sharing
 - [x] Users can view and copy their unique referral links from the frontend.
